@@ -46,7 +46,7 @@ Software Engineering undergraduate at the **Informatics Institute of Technology 
 My technical focus is **cloud infrastructure and security**, built on top of software engineering fundamentals. I'm most interested in systems where security is part of the design and the deployment pipeline rather than something bolted on afterwards.
 
 - **Target role:** Cloud Security Engineer
-- **Cloud platforms:** Azure and AWS
+- **Cloud platforms:** Azure, AWS and Google Cloud
 - **Core interests:** IAM, infrastructure security, secure CI/CD, Infrastructure as Code
 - **Longer term:** Cloud Security Architecture / DevSecOps
 - **Open to:** internships, junior cloud and security roles, infrastructure project collaboration
