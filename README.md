@@ -195,7 +195,7 @@ My technical focus is **cloud infrastructure and security**, built on top of sof
      - **AZ-900** — Microsoft Azure Fundamentals
      - **SC-900** — Microsoft Security, Compliance & Identity Fundamentals -->
 
-*In progress - *
+*In progress -*
 
 ---
 
