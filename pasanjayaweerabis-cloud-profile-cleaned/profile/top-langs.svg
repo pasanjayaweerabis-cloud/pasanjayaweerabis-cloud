@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="170" viewBox="0 0 600 170">
+  <rect width="600" height="170" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <text x="300" y="78" text-anchor="middle" fill="#c9d1d9" font-family="Arial, sans-serif" font-size="22" font-weight="600">Top Languages</text>
+  <text x="300" y="112" text-anchor="middle" fill="#8b949e" font-family="Arial, sans-serif" font-size="15">Run “Update README cards” in Actions</text>
+</svg>
