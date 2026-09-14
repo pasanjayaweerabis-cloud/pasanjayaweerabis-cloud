@@ -177,10 +177,10 @@ My technical focus is **cloud infrastructure and security**, built on top of sof
 <!-- These two SVGs are built by .github/workflows/readme-cards.yml and live
      in this repo. They will 404 until you run that workflow once. -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="./profile/stats.svg" height="170" alt="GitHub Statistics">
   <img src="./profile/top-langs.svg" height="170" alt="Top Languages">
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=pasanjayaweerabis-cloud&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak">
