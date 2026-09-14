@@ -10,7 +10,7 @@
   <br>
   Aspiring <b>Cloud Security Engineer</b>
   <br><br>
-  Linux · Cloud · Infrastructure as Code · DevSecOps
+  Linux · Cloud Security · Infrastructure as Code · DevSecOps
 </p>
 
 <p align="center">
