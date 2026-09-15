@@ -182,13 +182,13 @@ My technical focus is **cloud infrastructure and security**, built on top of sof
   />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img
     src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pasanjayaweerabis-cloud&theme=tokyonight&layout=compact&hide_border=true"
     height="170"
     alt="Top Languages"
   />
-</p>
+</p> -->
 
 ---
 
@@ -204,11 +204,11 @@ My technical focus is **cloud infrastructure and security**, built on top of sof
 
 ## Projects
 
-*Currently working on a private project
+<i>Currently working on a private project</i> 
 
 ---
 
-## Connect
+<h2 align="center" >Connect</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pasanjayaweera/">
@@ -222,4 +222,4 @@ My technical focus is **cloud infrastructure and security**, built on top of sof
   </a>
 </p>
 
-<p align="center"><i>Where software engineering meets secure cloud architecture.</i></p>
+<p align="center"><i>~ Where software engineering meets secure cloud architecture. ~</i></p>
