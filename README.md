@@ -29,6 +29,9 @@
   </a>
 </p>
 
+<p align="center"><i>Where software engineering meets secure cloud architecture.</i></p>
+
+
 ---
 
 ## About Me
@@ -219,4 +222,4 @@ My technical focus is **cloud infrastructure and security**, built on top of sof
   </a>
 </p>
 
-<p align="center"><i>Building software today. Securing the cloud tomorrow.</i></p>
+<p align="center"><i>Where software engineering meets secure cloud architecture.</i></p>
