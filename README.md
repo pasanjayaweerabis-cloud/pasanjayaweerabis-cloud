@@ -14,6 +14,10 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pasanjayaweerabis-cloud&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/pasanjayaweera/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
