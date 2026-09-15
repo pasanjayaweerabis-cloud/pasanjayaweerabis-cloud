@@ -29,7 +29,7 @@
   </a>
 </p>
 
-<p align="center"><i>Where software engineering meets secure cloud architecture.</i></p>
+<p align="center"><i>~ Where software engineering meets secure cloud architecture. ~</i></p>
 
 
 ---
