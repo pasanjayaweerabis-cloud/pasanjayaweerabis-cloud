@@ -197,7 +197,7 @@ My technical focus is **cloud infrastructure and security**, built on top of sof
 
 ## Certifications
 
-*Currently working on a private prohect
+*Currently working on a private project
 
 ---
 
