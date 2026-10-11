@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pasanjayaweerabis-cloud&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=pasanjayaweerabis-cloud.pasanjayaweerabis-cloud&left_text=Profile%20Views&right_color=%230e75b6" alt="Profile Views">
 </p>
 
 <p align="center">
