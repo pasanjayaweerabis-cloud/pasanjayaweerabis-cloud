@@ -194,21 +194,61 @@ My technical focus is **cloud infrastructure and security**, built on top of sof
 
 ## Certifications
 
-<!-- Delete this section until you have one.
-     - **AZ-900** — Microsoft Azure Fundamentals
-     - **SC-900** — Microsoft Security, Compliance & Identity Fundamentals -->
-
-*In progress -*
+- **AZ-900** — Microsoft Azure Fundamentals *(in progress)*
 
 ---
 
 ## Projects
 
-<i>Currently working on a private project</i> 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 Library Management System
+**Java · OOP · Console Application**
+
+A console-based library system, refactored from a procedural design into a clean object-oriented architecture.
+
+- Abstract `LibraryItem` base class with `Book` and `Magazine` subclasses
+- Runtime polymorphism: one collection, each item displays itself
+- Encapsulation with `final` fields, validated constructors and controlled setters
+- Static ID generation that stays unique after deletions
+- Input validation and exception handling, so invalid input never crashes the program
+- Separation of concerns: `Library` handles the logic, `Main` handles the UI
+
+**Next:** borrowing and returns, loans with due dates, custom exceptions
+
+<a href="https://github.com/pasanjayaweerabis-cloud/Library-Management-System">
+  <img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" alt="View Repo">
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### ☕ OOP Learning
+**Java · Object-Oriented Programming**
+
+A structured collection of Java exercises covering core OOP concepts as I work through them.
+
+- Classes, objects and constructors
+- Encapsulation, inheritance and polymorphism
+- Abstract classes vs interfaces
+- Static vs instance members
+- Exception handling
+
+<a href="https://github.com/pasanjayaweerabis-cloud/OOP-Learning">
+  <img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" alt="View Repo">
+</a>
+
+</td>
+</tr>
+</table>
+
+<p align="center"><i>More cloud-security projects in progress.</i></p>
 
 ---
 
-<h2 align="center" >Connect</h2>
+<h2 align="center">Connect</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pasanjayaweera/">
